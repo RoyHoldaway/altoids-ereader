@@ -1,0 +1,13 @@
+# Books and generated pages (copyrighted content, and pages are regenerable)
+*.pdf
+pages/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
